@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pass",
+				"PasswordField"
+			],
+			[
+				"Da",
+				"DataRequired"
+			],
+			[
+				"D",
+				"DataRequired"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"conne",
+				"connect_db"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"close",
+				"closed_tasks"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"O",
+				"orders"
+			],
+			[
+				"or",
+				"order_date"
+			],
+			[
+				"e",
+				"execute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Po/Documents/python/RealPython/django-quick-start/hello_world_project/hello_world_project/settings.py",
+		"/C/Users/Po/Documents/python/RealPython/django-quick-start/env/Scripts/django-admin.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/templates/register.html",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/views.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/db_create.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/templates/login.html",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/forms.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/config.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/templates/tasks.html",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/models.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/templates/template.html",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flasktaskr-02/app/db_create.py",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flasktaskr-02/app/config.py",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flasktaskr-02/app/views.py",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flasktaskr-01/app/views.py",
+		"/C/Users/Po/Documents/python/RealPython/StockParser/db_create.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlm.py",
+		"/C/Users/Po/Documents/python/RealPython/Regular expression/SimpleExample_01.py",
+		"/D/Python/fool_around/google-python-exercises/babynames/solution/babynames.py",
+		"/D/Python/fool_around/google-python-exercises/copyspecial/solution/copyspecial.py",
+		"/D/Python/fool_around/google-python-exercises/basic/solution/wordcount.py",
+		"/C/Users/Po/Desktop/read write.py",
+		"/C/Users/Po/Documents/python/RealPython/StockParser/ez_setup.py",
+		"/C/Users/Po/Documents/python/RealPython/StockParser/python.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/run.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/Answer/app/views.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/Answer/app/templates/tasks.html",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/Answer/app/static/css/styles.css",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/Answer/flasktaskr_project/project/static/css/styles.css",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flasktaskr_project/project/static/css/styles.css",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/static/css/style.css",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/static/css/styles.css",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/blog.py",
+		"/C/Users/Po/Documents/python/RealPython/FlaskTaskr/app/Answer/flasktaskr_project/db_migrate.py",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/templates/login.html",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/templates/main.html",
+		"/C/Users/Po/Documents/python/RealPython/debugging/post_mortem_pdb.py",
+		"/C/Users/Po/Documents/python/RealPython/debugging/pdb_ex2.py",
+		"/C/Users/Po/Documents/python/RealPython/debugging/pdb_ex.py",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/templates/template.html",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/debugging/pdb_ex2.py",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/static/styles.css",
+		"/C/Users/Po/Downloads/book2-exercises-master/book2-exercises-master/flask-blog/templates/login.html",
+		"/C/Users/Po/Documents/python/RealPython/sql/car_test.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlj.py",
+		"/C/Users/Po/AppData/Local/Temp/Rar$DR54.48879/book2-exercises-master/sql/sqll.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/car_sql2.py",
+		"/C/Users/Po/Documents/python/RealPython/flask-blog/README.md",
+		"/C/Users/Po/Desktop/sublime text/Data/Packages/User/Python.sublime-settings",
+		"/C/Users/Po/AppData/Local/Temp/Rar$DR02.149/book2-exercises-master/sql/sqli.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlh.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlg.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlf.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqle.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqld.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlc.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/sqlb.py",
+		"/C/Users/Po/Documents/python/real-python-test/README.md",
+		"/C/Users/Po/Documents/python/RealPython/flask-hello-world/app.py",
+		"/C/Users/Po/Documents/python/RealPython/sql/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"poster",
+			"db",
+			"def",
+			"wrap",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true
+}
